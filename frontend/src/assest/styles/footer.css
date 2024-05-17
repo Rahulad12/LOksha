@@ -1,0 +1,24 @@
+/* Footer styles */
+.footer {
+    /* background-color: #7d8585; */
+    background-color: 	#055b63;
+    padding: 20px;
+    text-align: center;
+    bottom: 0;
+    mix-blend-mode: darken;
+    
+}
+
+.footer p {
+    color: #d8d2d2;
+    font-size: 14px;
+}
+
+.footer a {
+    color: #e7dede;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}

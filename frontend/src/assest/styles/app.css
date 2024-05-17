@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+.main-container{
+    /* border: 1px solid #afa1a1; */
+    max-width: 1200px;
+    margin: 3rem auto;
+    padding: 20px;
+   
+    
+}
+
+.main-footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+}
+
