@@ -33,7 +33,7 @@ const Header = () => {
   // console.log(cartItems);
   return (
     <header>
-      <Navbar expand="lg" collapseOnSelect className="nav-bar  " fixed="top">
+      <Navbar expand="lg"  collapseOnSelect className="nav-bar" fixed="top">
         <Container>
           <LinkContainer to="/">
             <Navbar.Brand>
