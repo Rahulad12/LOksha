@@ -6,6 +6,7 @@
   "main": "server.js",
   "scripts": {
     "node": "node backend/server.js",
+    "start" : "node backend/server.js",
     "server": "nodemon backend/server.js",
     "client": "npm start --prefix frontend",
     "dev": "concurrently npm:server npm:client",
